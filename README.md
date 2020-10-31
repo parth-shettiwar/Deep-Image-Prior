@@ -1,6 +1,7 @@
 # Deep Image Prior
 
-PyTorch implementation of the CVPR 2018 paper [Deep Image Prior](https://dmitryulyanov.github.io/deep_image_prior) by Dmitry Ulyanov et. al. This codebase is a part of final project for **GNR 638: Deep Learning for Image Analysis** at IITB. The team members are:
+PyTorch implementation of the CVPR 2018 paper [Deep Image Prior](https://dmitryulyanov.github.io/deep_image_prior) by Dmitry Ulyanov et. al. </br>
+This project is done as a part of course **GNR 638: Deep Learning for Image Analysis** at IITB. The team members are:
 
 - Parth Shettiwar
 - Sumrit Gupta
